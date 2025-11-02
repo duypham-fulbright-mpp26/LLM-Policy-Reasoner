@@ -3,7 +3,7 @@
 ### Adaptive Large-Language-Model Framework for Policy Evaluation  
 **Author:** Pham Binh Phuong Duy  
 **Affiliation:** Master of Public Policy (MPP), Fulbright University Vietnam  
-**Thesis Title:** *Evaluating Macroeconomic Policy Design through a Dual-Layer LLM Framework for Policymaking and Public Response Simulation in Vietnam*  
+**Thesis Title:** *A Dual-Layer LLM Framework for Policymaking: Policy Evaluation and Public Response Simulation with a Case Study on Personal Income Tax In Vietnam*  
 **Year:** 2025  
 
 ---
